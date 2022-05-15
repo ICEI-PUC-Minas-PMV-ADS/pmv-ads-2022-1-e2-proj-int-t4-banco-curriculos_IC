@@ -13,75 +13,38 @@ Decidimos que no momento dos testes, deixaríamos a princípio tentarem acessar 
 
 # Questões para avaliação final do produto 
 
-## Questões	Anderson
+| Questões                                                              | Anderson                                                 |
+|-----------------------------------------------------------------------|----------------------------------------------------------|
+| 1.Como avalia a agilidade da página:                                  |                                                          |
+| boa, regular ou baixa?                                                | Regular.                                                 |
+| 2. O que achou da interface do site?                                  | Gostou achou inovador.                                   |
+| 3.O que achou da funcionalidade?                                      | Normal, sem dificuldades para acessar aa páginas.        |
+| 4.O que achou da proposta do projeto? Dê uma nota de 0 a 10.          | Legal, gostou e não achou confuso a usabilidade,nota 8.  |
+| 5. Dê sua escala de satisfação (muito insastifeito muito satisfeito ) |  Muito satifeito.                                        |
+| 6 Em geral o sistema para você é bom,muito bom ,pessimo ,horrivel?    |  Bom. Consegui acessar tranquilamente.                   |
+| 7 Você usaria o site para se candidatar a alguma vaga de emprego?     | Talvez sim.                                              |
 
-**1.Como avalia a agilidade da página
-boa, regular ou baixa?**
-Regular.
 
-**2. O que achou da interface do site?**
-Gostou achou inovador.
+| Questões                                                              | Giovana                                                                          |
+| 1.Como avalia a agilidade da página:                                  |                                                                                  |
+| boa, regular ou baixa?                                                | Boa. Foi bem fluído.                                                             |
+| 2. O que achou da interface do site?                                  | Gostou em partes. Queria função de import do currículo.                          |
+| 3.O que achou da funcionalidade?                                      | Entendeu bem a proposta achou bem útil.                                          |
+| 4.O que achou da proposta do projeto? Dê uma nota de 0 a 10.          | Deu nota 6 ao produto pois se interessou porém achou normal sem muita inovação.  |
+| 5. Dê sua escala de satisfação (muito insastifeito muito satisfeito ) |  Muito satisfeita.                                                               |
+| 6 Em geral o sistema para você é bom,muito bom ,pessimo ,horrivel?    |   Bom.                                                                           |
+| 7 Você usaria o site para se candidatar a alguma vaga de emprego?     | Provavelmente sim.                                                               |
 
-**3.O que achou da funcionalidade?**
-Normal, sem dificuldades para acessar aa páginas.
+| Questões                                                              | Geraldo                                                                   |
+| 1.Como avalia a agilidade da página:                                  |                                                                           |
+| boa, regular ou baixa?                                                | Boa.                                                                      |
+| 2. O que achou da interface do site?                                  | Gostou da aparência do site.                                              |
+| 3.O que achou da funcionalidade?                                      | Gostou da facilidade.                                                     |
+| 4.O que achou da proposta do projeto? Dê uma nota de 0 a 10.          | Daria nota 14 ao produto e se mostrou bastante interessado em acessá-lo.  |
+| 5. Dê sua escala de satisfação (muito insastifeito muito satisfeito ) |  Muito satisfeito.                                                        |
+| 6 Em geral o sistema para você é bom,muito bom ,pessimo ,horrivel?    |  Muito bom.                                                               |
+| 7 Você usaria o site para se candidatar a alguma vaga de emprego?     |  Sim com certeza.                                                         |
 
-**4.O que achou da proposta do projeto? Dê uma nota de 0 a 10.**
-Legal, gostou e não achou confuso a usabilidade,nota 8.
-
-**5. Dê sua escala de satisfação (muito insastifeito muito satisfeito )**
-Muito satifeito.
-
-**6 Em geral o sistema para você é bom,muito bom ,pessimo ,horrivel?** 
-Bom. Consegui acessar tranquilamente.
-
-**7 Você usaria o site para se candidatar a alguma vaga de emprego?**	
-Talvez sim.
-
-## Questões	Giovana
-**1.Como avalia a agilidade da página:**
-boa, regular ou baixa?	Boa. Foi bem fluído.
-
-**2. O que achou da interface do site?**	
-Gostou em partes. Queria função de import do currículo.
-
-**3.O que achou da funcionalidade?**	
-Entendeu bem a proposta achou bem útil.
-
-**4.O que achou da proposta do projeto? Dê uma nota de 0 a 10.** 	
-Deu nota 6 ao produto pois se interessou porém achou normal sem muita inovação.
-
-**5. Dê sua escala de satisfação (muito insastifeito muito satisfeito )**	
-Muito satisfeita.
-
-**6 Em geral o sistema para você é bom,muito bom ,pessimo ,horrivel?**	  
-Bom.
-
-**7 Você usaria o site para se candidatar a alguma vaga de emprego?**	  
-Provalvemente sim.
-
-	
-## Questões	Geraldo
-
-**1.Como avalia a agilidade da página:**
-boa, regular ou baixa?	Boa.
-
-**2. O que achou da interface do site?** 	
-Gostou da aparência do site.
-
-**3.O que achou da funcionalidade?**	
-Gostou da facilidade.
-
-**4.O que achou da proposta do projeto? Dê uma nota de 0 a 10.**	
-Daria nota 14 ao produto e se mostrou bastante interessado em acessá-lo.
-
-**5. Dê sua escala de satisfação (muito insastifeito muito satisfeito )**
-Muito satisfeito.
-
-**6 Em geral o sistema para você é bom,muito bom ,pessimo, horrivel?**	 
-Muito bom.
-
-**7 Você usaria o site para se candidatar a alguma vaga de emprego?**	 
-Sim com certeza.
 
 
 # Resultados e Discursão 
