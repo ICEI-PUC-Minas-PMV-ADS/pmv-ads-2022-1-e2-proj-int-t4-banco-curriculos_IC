@@ -5,10 +5,11 @@ A navegação criada para a solução web teve o intuito de facilitar o acesso p
 Em relação aos links e botões para principais funções, sempre foram posicionados estrategicamente para serem acessados de qualquer tela, facilitando a navegação e a experiência mantendo um padrão de layout favorável a memorização. 
 De modo geral, a solução conta com duas sessões gerais, sendo estas as páginas:
 
+
 |                    Home                    |
 |---------------------|----------------------|
 |                   Suporte                  |
-|---------------------|----------------------
+|---------------------|----------------------|
 | SESSÃO 1            | SESSÃO 2             |
 | Login  Candidato    | Login recrutador     |
 | Cadastro candidato  | Cadastro recrutador  |
