@@ -6,14 +6,13 @@
 <img alt="imagem" src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/img/Artboard 9.png">
 
 <h1 background_color:#EA7F2F" font-family: "Arial Rounded MT"; >LAYOUTS </h1>
-
-<img alt="imagem" src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/img/5Tela inicial candidato.png">
-
+<img alt="imagem" src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/img/Inicio.png">
 
 <img alt="imagem" src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/img/3LOGIN CANDIDATO.png">
 
 <img alt="imagem" src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/img/4Tela de cadastro.png">
 
+<img alt="imagem" src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/img/5Tela inicial candidato.png">
 
 <img alt="imagem" src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/img/6Tela de vagas candidato.png">
 
