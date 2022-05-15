@@ -19,7 +19,7 @@
 |Critérios de Êxito | Conseguir salvar e compartilhar o link de uma vaga registrada pela empresa.|
 |Resultado| Publicação e pesquisa de vagas realizada com sucesso|
 |Evidência |<img alt="imagem" src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/img/6Tela de vagas candidato.png">
-<img alt="imagem" src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/img/18Tela de nova vaga.png">|                                      |
+<img alt="imagem" src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/img/18Tela de nova vaga.png">|                                      
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 |Caso de Teste | CT 03 - Pesquisar vagas de emprego |
