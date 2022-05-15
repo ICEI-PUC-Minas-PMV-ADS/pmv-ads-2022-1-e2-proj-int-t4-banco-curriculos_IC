@@ -9,7 +9,6 @@ De modo geral, a solução conta com duas sessões gerais, sendo estas as págin
 | Home                | Home                 |
 |---------------------|----------------------|
 | Suporte             | Suporte              |
-|---------------------|----------------------|
 | SESSÃO 1            | SESSÃO 2             |
 | Login  Candidato    | Login recrutador     |
 | Cadastro candidato  | Cadastro recrutador  |
