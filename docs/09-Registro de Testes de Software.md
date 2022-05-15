@@ -11,4 +11,5 @@ Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identi
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
 
-https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/img/flowchart.png
+<img alt="imagem" src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/img/flowchart.png">
+
