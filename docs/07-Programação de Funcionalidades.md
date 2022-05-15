@@ -6,10 +6,9 @@ Em relação aos links e botões para principais funções, sempre foram posicio
 De modo geral, a solução conta com duas sessões gerais, sendo estas as páginas:
 
 
-|                    Home                    |
+| Home                | Home                 |
 |---------------------|----------------------|
-|                   Suporte                  |
-|---------------------|----------------------|
+| Suporte             | Suporte              |
 | SESSÃO 1            | SESSÃO 2             |
 | Login  Candidato    | Login recrutador     |
 | Cadastro candidato  | Cadastro recrutador  |
