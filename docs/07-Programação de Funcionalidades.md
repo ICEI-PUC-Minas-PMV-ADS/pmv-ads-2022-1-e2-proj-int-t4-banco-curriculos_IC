@@ -1,15 +1,36 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+## Navegacão ##
+A navegação criada para a solução web teve o intuito de facilitar o acesso para que não houvesse a necessidade de muitos cliques, com elementos com poucas cores e texto menos extensos para focar apenas o necessário.
+Em relação aos links e botões para principais funções, sempre foram posicionados estrategicamente para serem acessados de qualquer tela, facilitando a navegação e a experiência mantendo um padrão de layout favorável a memorização. 
+De modo geral, a solução conta com duas sessões gerais, sendo estas as páginas:
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+**| Home                | Home                 |   |   |
+|---------------------|----------------------|---|---|
+| Suporte             | Suporte              |   |   |
+| SESSÃO 1            | SESSÃO 2             |   |   |
+| Login  Candidato    | Login recrutador     |   |   |
+| Cadastro candidato  | Cadastro recrutador  |   |   |
+| Meu CV              | Nova Vaga            |   |   |
+| Vagas Salvas        | Vagas postadas       |   |   |
+| Candidaturas        | Candidatos           |   |   |
+| Alteração cadastral | Alteração cadastral  |   |   |
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+As páginas são acessadas através de um menu no centro superior da interface. Entre as funções específicas de cada sessão, a navegação é realizada através do menu superior, ícones clicáveis, avanço e retrocesso de etapas que surgem  conforme necessidade de ação da página aberta. Para os pop-ups que são abertos em algumas páginas, houve o cuidado de acrescentar o ícone de X para o usuário fechá-las.
+
+<img src=“https://github.com/KrisKasprzak/ILI9341_t3_controls 689”>
+
+**Linguagens e Softwares**
+Para o desenvolvimento do projeto foram aplicadas:
+
+**•	Criação do site:**
+            HTML5, CSS3, e JavaScript. 
+•	Para desenvolvimento dos layouts:
+Adobe Illustrator CC.
+
+**•	Prótotipo:**
+Figma.
+
+**•	Banco de imagens:**
+Site Pexels com direito de uso gratuito.
