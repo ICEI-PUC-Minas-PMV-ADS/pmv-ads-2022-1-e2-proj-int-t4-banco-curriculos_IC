@@ -1,5 +1,5 @@
-# Banco de Currículos#
-# Análise e Desenvolvimento de Sistemas#
+# Banco de Currículos #
+# Análise e Desenvolvimento de Sistemas #
 
 ## Projeto: Desenvolvimento de uma Aplicação Interativa ##
 
