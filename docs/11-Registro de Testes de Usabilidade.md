@@ -26,6 +26,7 @@ Decidimos que no momento dos testes, deixaríamos a princípio tentarem acessar 
 
 
 | Questões                                                              | Giovana                                                                          |
+|-----------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | 1.Como avalia a agilidade da página:                                  |                                                                                  |
 | boa, regular ou baixa?                                                | Boa. Foi bem fluído.                                                             |
 | 2. O que achou da interface do site?                                  | Gostou em partes. Queria função de import do currículo.                          |
@@ -35,7 +36,10 @@ Decidimos que no momento dos testes, deixaríamos a princípio tentarem acessar 
 | 6 Em geral o sistema para você é bom,muito bom ,pessimo ,horrivel?    |   Bom.                                                                           |
 | 7 Você usaria o site para se candidatar a alguma vaga de emprego?     | Provavelmente sim.                                                               |
 
+
+
 | Questões                                                              | Geraldo                                                                   |
+|-----------------------------------------------------------------------|---------------------------------------------------------------------------|
 | 1.Como avalia a agilidade da página:                                  |                                                                           |
 | boa, regular ou baixa?                                                | Boa.                                                                      |
 | 2. O que achou da interface do site?                                  | Gostou da aparência do site.                                              |
