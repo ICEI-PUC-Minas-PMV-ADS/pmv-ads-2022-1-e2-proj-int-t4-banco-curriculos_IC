@@ -5,7 +5,7 @@
 
 
 
-**3° Semestre**
+**2° Semestre**
 
 
 
