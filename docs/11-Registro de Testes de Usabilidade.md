@@ -57,7 +57,47 @@ Decidimos que no momento dos testes, deixaríamos a princípio tentarem acessar 
 CT 01 - Cadastrar usuários no site (empresas e candidatos)
 
 
-https://user-images.githubusercontent.com/90798113/173213441-0fe7602f-f5ed-4e2c-a88e-7acb821d31fb.mp4
+https://user-images.githubusercontent.com/90798113/173213484-f3177bc9-d11b-4a09-9552-7563e314879e.mp4
+
+
+CT-02 - Publicação e pesquisa de vagas de emprego
+
+
+https://user-images.githubusercontent.com/90798113/173213487-86cc6800-4761-481d-873a-ace05c7e6058.mp4
+
+
+CT 03 - Pesquisar vagas de emprego
+
+
+https://user-images.githubusercontent.com/90798113/173213488-eb5139b1-77c5-4f82-ac6c-d4784040a106.mp4
+
+
+CT 04 - Candidatura para vagas
+
+
+https://user-images.githubusercontent.com/90798113/173213490-b4f4b8d2-703a-4eb9-ba38-2c1ed1563a40.mp4
+
+
+CT 05 - Cadastro de currículo
+
+https://user-images.githubusercontent.com/90798113/173213494-f651b056-df5d-4f25-9fc7-7f5dd32c6b4f.mp4
+
+
+CT 06 - Recebimento de informaçoes de vagas
+
+https://user-images.githubusercontent.com/90798113/173213496-fcaf6625-9d88-4acb-a570-21e934e53daa.mp4
+
+
+CT 07 - Recebimento de informações de candidatos
+
+https://user-images.githubusercontent.com/90798113/173213497-febd3707-9973-4db2-ba8a-8f1e16ef6d03.mp4
+
+
+CT 08 - Registro de dúvidas e ajuda para candidatos e empresas
+
+https://user-images.githubusercontent.com/90798113/173213501-73f679c1-9ced-4a09-be5a-39560f5d3fb0.mp4
+
+
 
 
 
