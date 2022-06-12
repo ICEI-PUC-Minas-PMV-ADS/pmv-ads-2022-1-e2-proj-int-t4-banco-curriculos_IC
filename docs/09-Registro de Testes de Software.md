@@ -41,12 +41,13 @@
 |Evidência |<img alt="imagem" src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/img/7Tela de candidatura feita.png">|
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-|Caso de Teste | CT 05 - Filtragem nas buscas |
+|Caso de Teste | CT 05 -  Cadastro de currículo |
 |--------------------|------------------------------------|
 | RF 08 | O sistema deve possuir filtro de busca para critérios conforme demanda| 
-|Passos | 1) Acessar o navegador 2) Informar o endereço do site 3) Visualizar a página principal 4) Clicar no botão Vagas 5) Clicar no botão "pesquisar vaga" 6) Selecionar os filtros desejados para a vaga 7) Clicar em "Pesquisar"|
-|Critérios de Êxito | Apresentar no resultado de pesquisa apenas vagas que condizem com os critérios filtrados anteriormente|
-|Resultado| Filtragem na busca concluido sem problemas.|
+|Passos | 1) Acessar o navegador 2) Informar o endereço do site 3) Visualizar a página principal 4) Clicar no botão perfil 5) Clicar no botão "COnfigurar CV" 6) Cadastrar o formulário 7) Clicar em "Finalizar"|
+|Critérios de Êxito | Usuário conseguir finalizar cadastro com êxito.|
+|Entradas| Usuários, currículo, formulário|
+|Objetivo do teste | Constatar se formulário para cadastro de informações de currículos está ocorrendo com êxito|
 |Evidência |<img alt="imagem" src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/img/6Tela de vagas candidato.png">|
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
