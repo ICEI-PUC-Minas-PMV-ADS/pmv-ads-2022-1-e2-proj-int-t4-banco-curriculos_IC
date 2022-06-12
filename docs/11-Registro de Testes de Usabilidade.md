@@ -54,10 +54,10 @@ Decidimos que no momento dos testes, deixaríamos a princípio tentarem acessar 
 
 Registro de teste
 CT01 -
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/blob/main/docs/videos/CT01.mp4
-https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/videos/CT01.mp4">
-https://user-images.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/videos/CT01.mp4
-
+<video controls>
+  <source src="https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/videos/CT01.mp4" type="video/mp4"> </video>
+  
+ 
 # Resultados e Discursão 
  Em uma análise geral, houve um resultado positivo quanto às reações diante o produto apresentado. Foram bem observadores e buscaram descobrir as funções do produto através da pesquisa dentro do site. Referente a exibição das telas, esta se mostrou eficiente e atrativa. Todos foram bem ágeis ao acessar compreendendo rapidamente o tema que estava sendo apresentado. 
  Analisando as reações dos participantes, essas se revelaram bem similares, apesar dos mesmos possuírem perfis e personalidades diferentes, mostraram-se bem engajados ao produto. Na segunda fase de teste que fornecemos algumas dicas, e observamos que ainda mantiveram as mesmas reações anteriores, porém mais confiantes com o teste e o produto, sendo mais sinceros e comunicativos em relação a experiência vivenciada.
