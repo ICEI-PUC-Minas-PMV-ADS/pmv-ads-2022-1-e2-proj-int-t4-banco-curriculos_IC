@@ -40,13 +40,13 @@
 |Objetivo do teste | Constatar se as informações do usuário foram incluídas como candidatura na vaga desejada.|
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-|Caso de Teste | CT 05 - Filtragem nas buscas |
+|Caso de Teste | CT 05 -  Cadastro de currículo |
 |--------------------|------------------------------------|
 | RF 08 | O sistema deve possuir filtro de busca para critérios conforme demanda| 
-|Passos | 1) Acessar o navegador 2) Informar o endereço do site 3) Visualizar a página principal 4) Clicar no botão Vagas 5) Clicar no botão "pesquisar vaga" 6) Selecionar os filtros desejados para a vaga 7) Clicar em "Pesquisar"|
-|Critérios de Êxito | Apresentar no resultado de pesquisa apenas vagas que condizem com os critérios filtrados anteriormente|
-|Entradas| Filtros e(ou) palavra-chave|
-|Objetivo do teste | Constatar se os filtros estão coletando somente as informações desejadas|
+|Passos | 1) Acessar o navegador 2) Informar o endereço do site 3) Visualizar a página principal 4) Clicar no botão perfil 5) Clicar no botão "COnfigurar CV" 6) Cadastrar o formulário 7) Clicar em "Finalizar"|
+|Critérios de Êxito | Usuário conseguir finalizar cadastro com êxito.|
+|Entradas| Usuários, currículo, formulário|
+|Objetivo do teste | Constatar se formulário para cadastro de informações de currículos está ocorrendo com êxito|
   
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 |Caso de Teste | CT 06 - Recebimento de informaçoes de vagas |
