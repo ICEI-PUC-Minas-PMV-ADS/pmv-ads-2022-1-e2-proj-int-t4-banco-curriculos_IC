@@ -37,6 +37,11 @@ Decidimos que no momento dos testes, deixaríamos a princípio tentarem acessar 
 | 7 Você usaria o site para se candidatar a alguma vaga de emprego?     | Provavelmente sim.                                                               |
 
 
+Registro de teste
+CT01 -
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/blob/main/docs/videos/CT01.mp4
+https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/videos/CT01.mp4">
+
 
 | Questões                                                              | Geraldo                                                                   |
 |-----------------------------------------------------------------------|---------------------------------------------------------------------------|
