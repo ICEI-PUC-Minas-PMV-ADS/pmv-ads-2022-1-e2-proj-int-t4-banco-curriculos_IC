@@ -37,11 +37,6 @@ Decidimos que no momento dos testes, deixaríamos a princípio tentarem acessar 
 | 7 Você usaria o site para se candidatar a alguma vaga de emprego?     | Provavelmente sim.                                                               |
 
 
-Registro de teste
-CT01 -
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/blob/main/docs/videos/CT01.mp4
-https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/videos/CT01.mp4">
-
 
 | Questões                                                              | Geraldo                                                                   |
 |-----------------------------------------------------------------------|---------------------------------------------------------------------------|
@@ -55,6 +50,13 @@ https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-
 | 7 Você usaria o site para se candidatar a alguma vaga de emprego?     |  Sim com certeza.                                                         |
 
 
+
+
+Registro de teste
+CT01 -
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/blob/main/docs/videos/CT01.mp4
+https://raw.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/videos/CT01.mp4">
+https://user-images.githubusercontent.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t4-site_vagasIC/main/docs/videos/CT01.mp4
 
 # Resultados e Discursão 
  Em uma análise geral, houve um resultado positivo quanto às reações diante o produto apresentado. Foram bem observadores e buscaram descobrir as funções do produto através da pesquisa dentro do site. Referente a exibição das telas, esta se mostrou eficiente e atrativa. Todos foram bem ágeis ao acessar compreendendo rapidamente o tema que estava sendo apresentado. 
